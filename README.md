@@ -4,6 +4,8 @@
 
 <p> Prime Crawler is a specialized Amazon scraping tool engineered to provide concise product information, including current prices and product images. Utilizing Perl, the crawler focuses on delivering essential details to users, empowering them to track product prices and visualize items with ease on the Amazon platform.</p>
 
+<img src=image.png> 
+
 # Install Dependencies
 
 ### 1. Install Perl Dependencies:
